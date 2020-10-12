@@ -1,0 +1,22 @@
+@font-face {
+    font-family: 'FG Metropolis';
+    src: url('../fonts/FG-Metropolis-Bold.eot');
+    src: url('../fonts/FG-Metropolis-Boldd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FG-Metropolis-Bold.html') format('woff2'),
+        url('../fonts/FG-Metropolis-Bold.woff') format('woff'),
+        url('../fonts/FG-Metropolis-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FG Metropolis';
+    src: url('../fonts/FG-Metropolis-Light.eot');
+    src: url('../fonts/FG-Metropolis-Lightd41d.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/FG-Metropolis-Light.html') format('woff2'),
+        url('../fonts/FG-Metropolis-Light.woff') format('woff'),
+        url('../fonts/FG-Metropolis-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+
