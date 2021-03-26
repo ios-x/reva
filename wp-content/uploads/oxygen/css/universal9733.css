@@ -432,7 +432,7 @@ border-top-style:solid;
             .ct-section-inner-wrap, .oxy-header-container{
   max-width: 1120px;
 }
-body {font-family: 'Source Sans Pro';}body {line-height: 1.28;font-size: 18px;font-weight: 300;color: #222222;}.oxy-nav-menu-hamburger-line {background-color: #222222;}h1, h2, h3, h4, h5, h6 {font-family: 'Lora';font-size: 64px;font-weight: 300;line-height: ;color: #1f4354;}h2, h3, h4, h5, h6{font-size: 44px;font-weight: 300;line-height: ;color: #1f4354;}h3, h4, h5, h6{font-size: 24px;line-height: ;}h4, h5, h6{font-size: 20px;line-height: ;}h5, h6{font-size: 18px;font-weight: 700;line-height: ;color: #c0ab77;}h6{font-size: 16px;font-weight: 700;line-height: ;color: #696767;}a {color: #1f4354;font-weight: 300;text-decoration: none;}a:hover {text-decoration: none;}.ct-link-text {color: #1f4354;font-weight: 700;text-decoration: none;}.ct-link-text:hover {color: #c0ab77;text-decoration: underline;}.ct-link {text-decoration: none;}.ct-link:hover {text-decoration: none;}.ct-link-button {font-weight: 700;border-radius: 300px;}.ct-section-inner-wrap {
+body {font-family: 'Source Sans Pro';}body {line-height: 1.28;font-size: 18px;font-weight: 300;color: #222222;}.oxy-nav-menu-hamburger-line {background-color: #222222;}h1, h2, h3, h4, h5, h6 {font-family: 'LorBodoni BK BT';font-size: 64px;font-weight: 300;line-height: ;color: #3a3a3c;}h2, h3, h4, h5, h6{font-size: 44px;font-weight: 300;line-height: ;color: #3a3a3c;}h3, h4, h5, h6{font-size: 24px;line-height: ;}h4, h5, h6{font-size: 20px;line-height: ;}h5, h6{font-size: 18px;font-weight: 700;line-height: ;color: #39b54a;}h6{font-size: 16px;font-weight: 700;line-height: ;color: #696767;}a {color: #3a3a3c;font-weight: 300;text-decoration: none;}a:hover {text-decoration: none;}.ct-link-text {color: #3a3a3c;font-weight: 700;text-decoration: none;}.ct-link-text:hover {color: #39b54a;text-decoration: underline;}.ct-link {text-decoration: none;}.ct-link:hover {text-decoration: none;}.ct-link-button {font-weight: 700;border-radius: 300px;}.ct-section-inner-wrap {
 padding-top: 70px;
 padding-right: 10px;
 padding-bottom: 70px;
@@ -566,7 +566,7 @@ padding-left: 1em; padding-right: 1em;
  border-top-color:rgba(0,0,0,0.06);
  border-right-color:rgba(0,0,0,0.06);
  border-bottom-color:rgba(0,0,0,0.06);
- border-left-color:#c0ab77;
+ border-left-color:#39b54a;
  border-top-width:1px;
  border-right-width:1px;
  border-bottom-width:1px;
@@ -603,14 +603,14 @@ padding-left: 1em; padding-right: 1em;
 /*MENU*/
 .paged.post-type-archive.post-type-archive-events #menu-item-566 > a {
 	padding-bottom: 13px;
-    border-bottom: 2px solid #1f4354;
-    color: #1f4354;
+    border-bottom: 2px solid #3a3a3c;
+    color: #3a3a3c;
 }
 
 .paged.post-type-archive.post-type-archive-publications #menu-item-564 > a {
 	padding-bottom: 13px;
-    border-bottom: 2px solid #1f4354;
-    color: #1f4354;
+    border-bottom: 2px solid #3a3a3c;
+    color: #3a3a3c;
 }
 
 /*FG METROPOLIS*/
@@ -668,7 +668,7 @@ padding-left: 1em; padding-right: 1em;
   font-size: 18px;
 }
 .wpcf7 p .wpcf7-list-item-label a {
-  color: #c0ab77;
+  color: #39b54a;
   transition: 0.3s ease all;
 }
 .wpcf7 p .wpcf7-list-item-label a:hover {
@@ -689,7 +689,7 @@ padding-left: 1em; padding-right: 1em;
 
 .wpcf7 input[type="submit"] {
   border-radius: 30px;
-  background:#1F4354;
+  background:#3a3a3c;
   border: 0;
   color: white;
 }
@@ -703,18 +703,18 @@ padding-left: 1em; padding-right: 1em;
 }
 .wpcf7 span.wpcf7-not-valid-tip {
   text-transform: none;
-  color: #C0AB77;
+  color: #39b54a;
 }
 .wpcf7 .wpcf7-mail-sent-ok {
-  border: 2px solid #C0AB77;
-  color: #C0AB77;
+  border: 2px solid #39b54a;
+  color: #39b54a;
 }
 div.wpcf7-response-output {
   margin: 0;
 }
 div.wpcf7-validation-errors, div.wpcf7-acceptance-missing {
-  border: 2px solid #C0AB77;
-  color: #C0AB77;
+  border: 2px solid #39b54a;
+  color: #39b54a;
 }
 
 div.wpcf7 .ajax-loader {
@@ -762,7 +762,7 @@ div.wpcf7 .ajax-loader {
 
 /* style the items (options), including the selected item: */
 .select-items div,.select-selected {
-  color: #1F4354;
+  color: #3a3a3c;
   padding: 8px 40px 8px 15px;
   border: 1px solid transparent;
   border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
@@ -822,7 +822,7 @@ div.wpcf7 .ajax-loader {
     transition: all 0.2s ease-in;
 }
 .job-list .ct-div-block a:hover .ct-fancy-icon {
-	color: #1f4354 !important;
+	color: #3a3a3c !important;
     transition: all 0.4s ease-in;
     -moz-animation: pulse 1s;
     -webkit-animation: pulse 1s;
@@ -874,7 +874,7 @@ div.wpcf7 .ajax-loader {
     transition: all 0.2s ease-in;
 }
 .team .oxy-post:hover .team-icon-linkedin svg {
-    color: #C0AB77;
+    color: #39b54a;
     transition: all 0.3s ease-in;
 }
 .team .oxy-post-content {
@@ -891,8 +891,8 @@ div.wpcf7 .ajax-loader {
     margin: 0 10px !important;
 }
 .unslider-nav ol li.unslider-active {
-	border-color: #c0ab77 !important;
-    background-color: #c0ab77 !important;
+	border-color: #39b54a !important;
+    background-color: #39b54a !important;
 }
 .unslider .unslider-nav {
 	bottom: 20px !important;
